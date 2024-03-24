@@ -1,4 +1,4 @@
-E Tab Remotes
+E Remotes
 ===============
 
 Feel free to create pull requests for:
